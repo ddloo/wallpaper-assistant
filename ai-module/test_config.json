@@ -1,0 +1,13 @@
+{
+  "prompt": "masterpiece, best quality, highres, anime style, cute girl, 1girl, pink long hair, red eyes, smiling, nudity, beautiful face, detailed eyes, game character, full body, sfw",
+  "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name",
+  "width": 768,
+  "height": 1024,
+  "model_strategy": "diffusion",
+  "guidance_scale": 9,
+  "num_inference_steps": 50,
+  "output_path": "./anime_character.png",
+  "local_cache_dir": "D:/项目/wallpaper-assistant/models/cache",
+  "base_model_id": "stablediffusionapi/anything-v5",
+  "disable_safety_checker": true
+}
