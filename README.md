@@ -7,6 +7,10 @@
 ## 安装
 
 ```bash
+# 安装前端依赖
+npm/yarn/pnpm install
+
+# 安装 python 依赖
 cd ai-module
 pip install -r requirements.txt
 ```
